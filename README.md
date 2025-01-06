@@ -1,4 +1,3 @@
-# Cluster-analysis
 This is my course project about clustering analysis of districts/cities in West Java based on socio-economic conditions using the K-Means method.
 
 # Objective
